@@ -9,4 +9,4 @@ tasks:
   - name: fusionauth-server
     command: |
       npm install
-      gp preview README.md
+      gp open README.md
