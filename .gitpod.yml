@@ -6,3 +6,7 @@ tasks:
     command: |
       npm install
       gp open README.md
+
+vscode:
+   extensions:
+    - https://github.com/DataStax-Academy/katapod/releases/download/stable/katapod-stable.vsix
