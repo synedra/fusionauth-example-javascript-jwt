@@ -2,7 +2,11 @@
 
 ## To run the JWT generator
 
-`node hmac.js`
+Click the following command to generate your JWT
+
+```
+node hmac.js
+```
 
 ## Check your token
 
