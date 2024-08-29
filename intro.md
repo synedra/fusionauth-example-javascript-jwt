@@ -13,5 +13,5 @@ node hmac.js
 Click the following command to launch the JWT decoder.
 
 ```
-gp preview https://fusionauth.io/dev-tools/jwt-decoder
+gp preview https://www.jstoolset.com/jwt
 ```
