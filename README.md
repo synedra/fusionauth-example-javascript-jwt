@@ -1,4 +1,4 @@
-## Quickstart: React app with FusionAuth
+## Quickstart: JWT Interactions
 
 This repository contains a Gitpod instance to help you understand how JWT tokens work.
 
