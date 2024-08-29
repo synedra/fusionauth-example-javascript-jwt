@@ -1,17 +1,13 @@
-# Javascript JWT examples
+## Quickstart: React app with FusionAuth
 
-## To run
+This repository contains a Gitpod instance to help you understand how JWT tokens work.
 
-`npm install`
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/synedra/fusionauth-example-javascript-jwt)
+
+## To run the JWT generator
 
 `node hmac.js`
 
-## Library used
+## Check your token
 
-https://www.npmjs.com/package/jsonwebtoken
-
-# Quickstart: React app with FusionAuth
-
-This repository contains an Github hosted React app that works with a cloud hosted instance of FusionAuth.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/synedra/fusionauth-example-javascript-jwt)
+Browse to [https://fusionauth.io/dev-tools/jwt-decoder](https://fusionauth.io/dev-tools/jwt-decoder) to decode your JWT token.
